@@ -1,0 +1,11 @@
+const TEST_TEXT = document.querySelector("#or-text")
+const CUSTOM_TEXT = document.querySelector("#cst")
+const TEST_AREA = document.querySelector("#test-area")
+const TIMER = document.querySelector(".timer")
+const RESTART = document.querySelector("#reset")
+
+console.log(TEST_TEXT)
+console.log(CUSTOM_TEXT)
+console.log(TEST_AREA)
+console.log(TIMER)
+console.log(RESTART)
